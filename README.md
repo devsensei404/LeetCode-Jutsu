@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/devsensei404-dsa-jutsu/leetcode-domain/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/devsensei404-dsa-jutsu/leetcode-domain/tree/main/0509-fibonacci-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -27,4 +28,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/devsensei404-dsa-jutsu/leetcode-domain/tree/main/0125-valid-palindrome/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/devsensei404-dsa-jutsu/leetcode-domain/tree/main/0268-missing-number/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/devsensei404-dsa-jutsu/leetcode-domain/tree/main/0268-missing-number/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/devsensei404-dsa-jutsu/leetcode-domain/tree/main/0268-missing-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/devsensei404-dsa-jutsu/leetcode-domain/tree/main/0268-missing-number/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/devsensei404-dsa-jutsu/leetcode-domain/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
