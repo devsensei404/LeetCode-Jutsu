@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/devsensei404-dsa-jutsu/leetcode-domain/tree/main/0066-plus-one/) | Easy |
 | [0268-missing-number](https://github.com/devsensei404-dsa-jutsu/leetcode-domain/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/devsensei404-dsa-jutsu/leetcode-domain/tree/main/0509-fibonacci-number/) | Easy |
 ## Dynamic Programming
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/devsensei404-dsa-jutsu/leetcode-domain/tree/main/0066-plus-one/) | Easy |
 | [0268-missing-number](https://github.com/devsensei404-dsa-jutsu/leetcode-domain/tree/main/0268-missing-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
