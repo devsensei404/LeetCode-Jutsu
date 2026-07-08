@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0066-plus-one](https://github.com/devsensei404-dsa-jutsu/leetcode-domain/tree/main/0066-plus-one/) | Easy |
 | [0268-missing-number](https://github.com/devsensei404-dsa-jutsu/leetcode-domain/tree/main/0268-missing-number/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/devsensei404-dsa-jutsu/leetcode-domain/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/devsensei404-dsa-jutsu/leetcode-domain/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
