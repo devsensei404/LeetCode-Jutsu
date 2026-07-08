@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/devsensei404-dsa-jutsu/leetcode-domain/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/devsensei404-dsa-jutsu/leetcode-domain/tree/main/0509-fibonacci-number/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/devsensei404-dsa-jutsu/leetcode-domain/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/devsensei404-dsa-jutsu/leetcode-domain/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/devsensei404-dsa-jutsu/leetcode-domain/tree/main/0125-valid-palindrome/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/devsensei404-dsa-jutsu/leetcode-domain/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,4 +59,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/devsensei404-dsa-jutsu/leetcode-domain/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/devsensei404-dsa-jutsu/leetcode-domain/tree/main/1903-largest-odd-number-in-string/) | Easy |
 <!---LeetCode Topics End-->
