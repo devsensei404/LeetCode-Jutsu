@@ -1,4 +1,5 @@
 # leetcode-domain
+Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -26,6 +27,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/devsensei404-dsa-jutsu/leetcode-domain/tree/main/0125-valid-palindrome/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/devsensei404-dsa-jutsu/leetcode-domain/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,6 +37,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/devsensei404-dsa-jutsu/leetcode-domain/tree/main/0066-plus-one/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/devsensei404-dsa-jutsu/leetcode-domain/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/devsensei404-dsa-jutsu/leetcode-domain/tree/main/0268-missing-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/devsensei404-dsa-jutsu/leetcode-domain/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/devsensei404-dsa-jutsu/leetcode-domain/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
@@ -45,6 +48,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/devsensei404-dsa-jutsu/leetcode-domain/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/devsensei404-dsa-jutsu/leetcode-domain/tree/main/0268-missing-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
