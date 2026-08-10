@@ -26,6 +26,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/devsensei404-dsa-jutsu/leetcode-domain/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/devsensei404-dsa-jutsu/leetcode-domain/tree/main/0015-3sum/) | Medium |
 | [0125-valid-palindrome](https://github.com/devsensei404-dsa-jutsu/leetcode-domain/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devsensei404-dsa-jutsu/leetcode-domain/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## String
@@ -36,6 +38,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/devsensei404-dsa-jutsu/leetcode-domain/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/devsensei404-dsa-jutsu/leetcode-domain/tree/main/0015-3sum/) | Medium |
 | [0066-plus-one](https://github.com/devsensei404-dsa-jutsu/leetcode-domain/tree/main/0066-plus-one/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devsensei404-dsa-jutsu/leetcode-domain/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/devsensei404-dsa-jutsu/leetcode-domain/tree/main/0268-missing-number/) | Easy |
@@ -57,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/devsensei404-dsa-jutsu/leetcode-domain/tree/main/0015-3sum/) | Medium |
 | [0268-missing-number](https://github.com/devsensei404-dsa-jutsu/leetcode-domain/tree/main/0268-missing-number/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
@@ -65,5 +70,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/devsensei404-dsa-jutsu/leetcode-domain/tree/main/0011-container-with-most-water/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/devsensei404-dsa-jutsu/leetcode-domain/tree/main/1903-largest-odd-number-in-string/) | Easy |
 <!---LeetCode Topics End-->
